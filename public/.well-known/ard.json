@@ -1,0 +1,63 @@
+{
+  "$schema": "https://agentic-resource-discovery.org/schemas/v0.91/ard.json",
+  "version": "0.91",
+  "title": "AiroShield 2.0 AI Clean Air Navigation & Telemetry Resource Directory",
+  "description": "Agentic Resource Directory for the AiroShield 2.0 AI atmospheric defense and safe corridor navigation platform.",
+  "entries": [
+    {
+      "identifier": "urn:air:airoshield2-ai.vercel.app:dashboard",
+      "displayName": "Atmospheric Telemetry Dashboard",
+      "type": "application/agent-card+json",
+      "url": "https://airoshield2-ai.vercel.app/#dashboard",
+      "representativeQueries": [
+        "air quality index",
+        "hyperlocal AQI telemetry",
+        "live smog monitoring"
+      ]
+    },
+    {
+      "identifier": "urn:air:airoshield2-ai.vercel.app:routine",
+      "displayName": "Neural Daily Routine Optimizer",
+      "type": "application/agent-card+json",
+      "url": "https://airoshield2-ai.vercel.app/#routine",
+      "representativeQueries": [
+        "clean air daily routine",
+        "schedule outdoor activity safe AQI",
+        "inversion forecast exercise"
+      ]
+    },
+    {
+      "identifier": "urn:air:airoshield2-ai.vercel.app:transit",
+      "displayName": "Safe Corridor Routing Engine",
+      "type": "application/agent-card+json",
+      "url": "https://airoshield2-ai.vercel.app/#transit",
+      "representativeQueries": [
+        "low exposure commute route",
+        "clean air transit navigation",
+        "smog evasion walking route"
+      ]
+    },
+    {
+      "identifier": "urn:air:airoshield2-ai.vercel.app:iaq",
+      "displayName": "Indoor Air Quality & CADR Center",
+      "type": "application/agent-card+json",
+      "url": "https://airoshield2-ai.vercel.app/#iaq",
+      "representativeQueries": [
+        "indoor air quality CADR calculator",
+        "air purifier coverage",
+        "clean air delivery rate"
+      ]
+    },
+    {
+      "identifier": "urn:air:airoshield2-ai.vercel.app:community",
+      "displayName": "Neighborhood Defense Hub",
+      "type": "application/agent-card+json",
+      "url": "https://airoshield2-ai.vercel.app/#community",
+      "representativeQueries": [
+        "neighborhood air defense pledges",
+        "community smog reduction",
+        "collective clean air action"
+      ]
+    }
+  ]
+}

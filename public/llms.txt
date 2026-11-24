@@ -1,0 +1,19 @@
+# AiroShield 2.0 AI — Next-Gen Atmospheric Defense & Safe Corridor Intelligence Platform
+
+> Hyperlocal multi-pollutant telemetry, neural schedule optimization, and lowest-exposure transit navigation for resilient urban living. Built with EPA breakpoints, first-order decay equations, and zero-trust perimeter defense.
+
+## Overview
+
+AiroShield 2.0 AI is an enterprise-grade urban air resilience platform designed to translate granular municipal atmospheric sensor streams into actionable daily exposure mitigation decisions. The platform combines real-time multi-pollutant dispersion tracking, atmospheric thermal inversion detection, Dijkstra-optimized safe transit corridors, CADR-based indoor air quality calculation, and neural schedule generation.
+
+### Core Capabilities
+- **Hyperlocal Atmospheric Telemetry**: Real-time multi-pollutant monitoring (PM2.5, PM10, NO2, O3, CO) with microclimate tracking across municipal districts.
+- **Interactive Smog Heatmap**: High-fidelity spatial visualization with isopleth contours, wind vector plumes, and interactive sector telemetry cards.
+- **AiroShield 2.0 Neural Routine Optimizer**: Boundary lapse rate meteorology combined with Google Gemini 3.1 neural recommendations for outdoor activity planning.
+- **Safe Corridor Transit Engine**: Multimodal Dijkstra routing engine comparing respiratory intake dose across walking, cycling, transit, and driving.
+- **Indoor Air Quality (IAQ) Center**: Clean Air Delivery Rate (CADR) calculation, ACH estimation, and an inversion-aware window ventilation schedule.
+- **Community Defense Hub**: Collective emission reduction pledges and emergency smog broadcast alerts.
+
+## Links
+- [Live Web Application](https://airoshield2-ai.vercel.app/)
+- [Machine-Readable Agent Data](https://airoshield2-ai.vercel.app/.well-known/ard.json)

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://airoshield2-ai.vercel.app/sitemap.xml
